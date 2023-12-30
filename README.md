@@ -18,8 +18,13 @@ Welcome to the Quiz Application, a simple and interactive quiz game where you ca
 
 ## Getting Started
 
-To get started with the quiz application, simply open the `index.html` file in your preferred web browser. The main page provides three options:
+To run this project locally, follow these steps:
 
+- Clone the repository: git clone https://github.com/famahmoudi64/quiz-app-js.git
+- open the project folder: cd quiz-app-js
+- open the index.html file in your preferred web browser.
+
+The main page provides three options:
 1. **Play:** Start answering questions and accumulate your score.
 2. **Difficulty Level:** Choose the difficulty level for the questions (Easy, Medium, Hard).
 3. **High Scores:** View the high scores and see how well others have performed.
@@ -35,16 +40,16 @@ To get started with the quiz application, simply open the `index.html` file in y
 
 Choose your preferred difficulty level before starting the quiz:
 
-. **Easy:** Test your basic knowledge.
-. **Medium:** A bit more challenging.
-. **Hard:** For the true quiz enthusiasts.
+- **Easy:** Test your basic knowledge.
+- **Medium:** A bit more challenging.
+- **Hard:** For the true quiz enthusiasts.
 
 ## High Scores
 
 Visit the "High Scores" section to see the top performers:
 
-. The list displays usernames and their corresponding scores.
-. Find out who has achieved the highest scores across all difficulty levels.
+- The list displays usernames and their corresponding scores.
+- Find out who has achieved the highest scores across all difficulty levels.
 
 ## Fake API
 
