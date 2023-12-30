@@ -3,20 +3,18 @@
 Welcome to the Quiz Application, a simple and interactive quiz game where you can test your knowledge on various topics. The application is built using HTML, CSS, and JavaScript, and it utilizes a Fake API for retrieving quiz questions.
 
 ## Table of Contents
-.Features
-.Getting Started
-.How to Play
-.Difficulty Levels
-.High Scores
-.Contributing
-.License
+- Features
+- Getting Started
+- How to Play
+- Difficulty Levels
+- High Scores
 
 ## Features
 
-.Answer a list of questions with multiple difficulty levels (Easy, Medium, Hard).
-.Score points for each correct answer (10 points per correct answer).
-.Save your score along with your name.
-.View high scores to see how you compare with other players.
+- Answer a list of questions with multiple difficulty levels (Easy, Medium, Hard).
+- Score points for each correct answer (10 points per correct answer).
+- Save your score along with your name.
+- View high scores to see how you compare with other players.
 
 ## Getting Started
 
